@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mersedyes&label=Profile%20views&color=0e75b6&style=flat" alt="mersedyes" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [github.com/Mersedyes](github.com/Mersedyes)
 
