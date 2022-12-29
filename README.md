@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mersedyes&label=Profile%20views&color=0e75b6&style=flat" alt="mersedyes" /> </p>
 
-- 🌱 I’m currently working on my **Capstone Project**
+- 🌱 I’m currently working at **American Airlines** as a **Software Developer**
 
-- 👨‍💻 All of my projects are available at [github.com/Mersedyes](github.com/Mersedyes)
+- 👨‍💻 All of my projects are available at [github.com/Mersedyes](github.com/Mersedyes) or [github.com/mersedyes-livingston](github.com/mersedyes-livingston)
 
 - 📫 How to reach me **mersedyes.livingston@gmail.com**
 
