@@ -1,4 +1,3 @@
-![](https://github.com/Mersedyes/Mersedyes/blob/main/Blog%20Banner%20for%20GitHub.png)
 <h1 align="center">Hi 👋, I'm Mersedyes Livingston</h1>
 <h3 align="center">A passionate full stack developer student who is passionate about solving problems with technology and creating innovative solutions, loves</h3>
 <img align=“right” alt+”Coding” width=“400” src=“https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif”>
