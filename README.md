@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mersedyes Livingston</h1>
-<h3 align="center">A passionate full stack developer who is passionate about solving problems with technology and creating innovative solutions, loves</h3>
+<h3 align="center">A passionate DevSecOps Consultant who is passionate about solving problems with technology and creating innovative solutions, loves</h3>
 <img align=“right” alt+”Coding” width=“400” src=“https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mersedyes&label=Profile%20views&color=0e75b6&style=flat" alt="mersedyes" /> </p>
 
-- 🌱 I’m currently working at **Apex Capital Corp** as a **Software Developer**
+- 🌱 I’m currently working at **Sabel Systems, LLC** as a **DevSecOps Consultant**
 
 - 👨‍💻 All of my projects are available at [github.com/Mersedyes](github.com/Mersedyes) or [github.com/mersedyes-livingston](github.com/mersedyes-livingston)
 
