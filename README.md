@@ -1,6 +1,6 @@
 # Hi, I'm Mersedyes Livingston 👋
 
-**DevSecOps engineer who makes software systems prove what they claim, and now applies that lens to machine learning.**
+**I lead the delivery of secure infrastructure and trustworthy AI, built to prove what they claim.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mersedyes-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mersedyes)
 [![Email](https://img.shields.io/badge/Email-mersedyes.livingston%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mersedyes.livingston@gmail.com)
@@ -21,7 +21,8 @@ Results trace to executed notebooks and scripts, and CI runs the tests and pre-p
 
 ## 💼 About me
 
-- 🛡️ **Senior DevSecOps Consultant & Scrum Lead** at Sabel Systems: pipelines that generate evidence, controls that can be traced, and deployments that match their documentation.
+- 🛡️ **DevSecOps Delivery Lead** at Sabel Systems: I lead the delivery of infrastructure with cybersecurity built in from the start, with controls that can be traced and deployments that match their documentation.
+- 🎓 **University of Southern Indiana**, MBA with a concentration in Artificial Intelligence (in progress).
 - 🎓 **The University of Texas at Austin**, Post Graduate Program in AI & Machine Learning: Business Applications (2025). All seven modules completed, 4.14 GPA on a 4.33 scale.
 - 🔬 **Research interest:** how organizations verify, document, and govern the ML systems they deploy.
 - 📚 Started as a full-stack Java and JavaScript developer (Codeup, 2022). Those projects are in [my repositories](https://github.com/Mersedyes?tab=repositories).
