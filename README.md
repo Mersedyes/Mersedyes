@@ -1,19 +1,35 @@
-<h1 align="center">Hi 👋, I'm Mersedyes Livingston</h1>
-<h3 align="center">A passionate DevSecOps Consultant who is passionate about solving problems with technology and creating innovative solutions</h3>
-<img align=“right” alt+”Coding” width=“400” src=“https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif”>
+# Hi, I'm Mersedyes Livingston 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mersedyes&label=Profile%20views&color=0e75b6&style=flat" alt="mersedyes" /> </p>
+**DevSecOps engineer who makes software systems prove what they claim, and now applies that lens to machine learning.**
 
-- 🌱 I’m currently working at **Sabel Systems, LLC** as a **DevSecOps Consultant**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mersedyes-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mersedyes)
+[![Email](https://img.shields.io/badge/Email-mersedyes.livingston%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mersedyes.livingston@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=mersedyes&label=Profile%20views&color=0e75b6&style=flat)
 
-- 👨‍💻 All of my projects are available at [github.com/Mersedyes](github.com/Mersedyes) or [github.com/mersedyes-livingston](github.com/mersedyes-livingston)
+## 🔭 Featured: [Applied AI/ML Portfolio](https://github.com/Mersedyes/applied-ai-ml-portfolio)
 
-- 📫 How to reach me **mersedyes.livingston@gmail.com**
+Seven machine-learning projects from UT Austin's AI/ML program, covering EDA, classical ML, ensembles, neural networks, computer vision, a RAG system with open-source LLMs, and a Dockerized prediction API. In 2026 I re-audited every one with a single question: **does the reported result actually support the claim?**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mersedyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mersedyes" height="30" width="40" /></a>
-</p>
+What the re-audit found:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+- 📉 A sales model with **R² 0.93** couldn't predict a single store it hadn't seen (leave-one-store-out R² below 0 for every store).
+- ⚖️ A visa-approval model's false-denial rate ranged **6% to 44% by continent**. Removing continent narrowed it to 22–28% at a cost of 1.5 points of balanced accuracy.
+- 🤖 An LLM judge broke its own output format in **14 of 15** groundedness ratings and gave every answer full relevance marks.
+- 🧾 A deployed model wasn't the model its documentation described.
+
+Results trace to executed notebooks and scripts, and CI runs the tests and pre-publish checks on every push. **[Explore the portfolio →](https://github.com/Mersedyes/applied-ai-ml-portfolio)**
+
+## 💼 About me
+
+- 🛡️ **Senior DevSecOps Consultant & Scrum Lead** at Sabel Systems: pipelines that generate evidence, controls that can be traced, and deployments that match their documentation.
+- 🎓 **The University of Texas at Austin**, Post Graduate Program in AI & Machine Learning: Business Applications (2025). All seven modules completed, 4.14 GPA on a 4.33 scale.
+- 🔬 **Research interest:** how organizations verify, document, and govern the ML systems they deploy.
+- 📚 Started as a full-stack Java and JavaScript developer (Codeup, 2022). Those projects are in [my repositories](https://github.com/Mersedyes?tab=repositories).
+
+## 🛠️ Tools
+
+**ML and data:** Python · pandas · scikit-learn · XGBoost · TensorFlow/Keras · Hugging Face · ChromaDB · llama.cpp
+
+**Deployment and DevSecOps:** Docker · Flask · Streamlit · GitHub Actions · pytest
+
+**Also:** Java · JavaScript/Node.js · SQL (MySQL, SQL Server) · HTML/CSS
